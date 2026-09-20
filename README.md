@@ -65,7 +65,7 @@ Fraunhofer). Ogg Vorbis система не знает вовсе — ни на 
 
 ## Лицензии и открытые компоненты
 
-Исходный код Agave закрыт. Приложение использует открытые библиотеки:
+Agave — свободное программное обеспечение под лицензией **GNU GPL v3**. Исходный код: [white-currant/Agave-src](https://github.com/white-currant/Agave-src). Приложение использует открытые библиотеки:
 
 - **LAME 3.100** (кодирование MP3) — LGPL-2.1, [lame.sourceforge.io](https://lame.sourceforge.io).
   Подключена динамически, отдельной библиотекой (`LameKit.framework` внутри
