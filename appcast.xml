@@ -7,6 +7,18 @@
         <language>ru</language>
         <!-- Пункты релизов добавляются сюда скриптом Scripts/release.sh -->
         <item>
+            <title>Версия 1.1</title>
+            <pubDate>Thu, 15 Oct 2026 08:47:17 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/white-currant/Agave/releases/download/v1.1/Agave-1.1.zip"
+                length="3539796"
+                type="application/octet-stream"
+                sparkle:edSignature="Jpj+gwf/43I7anx5mZLUypbxUB8mtl0vBJ9lQHIm9ItdC80aKQ8IFuivvVZp83zqDo01cQPtveKs5atWBMwFCw==" />
+        </item>
+        <item>
             <title>Версия 1.0</title>
             <pubDate>Sun, 20 Sep 2026 09:52:28 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
